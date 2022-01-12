@@ -1,0 +1,233 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>BACK</tag>
+        <one-of>
+          <item> back </item>
+          <item> backs </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CAMERA CONTROL</tag>
+        <one-of>
+          <item> camera control </item>
+          <item> camera controls </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>HELP</tag>
+        <one-of>
+          <item> help </item>
+          <item> helps </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>STUDENT CAMERA</tag>
+        <one-of>
+          <item> student camera </item>
+          <item> students camera </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>INSTRUCTOR CAMERA</tag>
+        <one-of>
+          <item> instructor camera </item>
+          <item> instructors camera </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZOOM IN</tag>
+        <one-of>
+          <item> zoom in </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ZOOM OUT</tag>
+        <one-of>
+          <item> zoom out </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>PAN LEFT</tag>
+        <one-of>
+          <item> pan left </item>
+          <item> pan lefts </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>PAN RIGHT</tag>
+        <one-of>
+          <item> pan right </item>
+          <item> pan rights </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>PAN UP</tag>
+        <one-of>
+          <item> pan up </item>
+          <item> pan ups </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>PAN DOWN</tag>
+        <one-of>
+          <item> pan down </item>
+          <item> pan downs </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>YES</tag>
+        <one-of>
+          <item> yes </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>NO</tag>
+        <one-of>
+          <item> no </item>
+        </one-of>
+      </item>      
+      <item>
+        <tag>CANCEL</tag>
+        <one-of>
+          <item> cancel </item>
+          <item> cancelled </item>
+          <item> cancels </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RIGHT</tag>
+        <one-of>
+          <item> turn right </item>
+          <item> right </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>REBOOT</tag>
+        <one-of>
+          <item>reboots</item>
+          <item>rebooted</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>WAKE</tag>
+        <one-of>
+          <item>wake</item>
+          <item>waked</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SLEEP</tag>
+        <one-of>
+          <item>sleep</item>
+          <item>slept</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SYSTEM ON</tag>
+        <one-of>
+          <item>system on</item>
+          <item>systems ons</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SHUTDOWN</tag>
+        <one-of>
+          <item>shutdown</item>
+          <item>shutdowns</item>
+          <item>shutsdown</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SHOW PC</tag>
+        <one-of>
+          <item>show pc</item>
+          <item>shows pc</item>
+          <item>shows pcs</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SHOW DOCCAM</tag>
+        <one-of>
+          <item>show doccam</item>
+          <item>shows doccam</item>
+          <item>shows doccams</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SHOW DVD</tag>
+        <one-of>
+          <item>show dvd</item>
+          <item>shows dvd</item>
+          <item>shows dvds</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SHOW LAPTOP</tag>
+        <one-of>
+          <item>show laptop</item>
+          <item>shows laptop</item>
+          <item>shows laptops</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>START CONFERENCE</tag>
+        <one-of>
+          <item>start conference</item>
+          <item>starts conference</item>
+          <item>starts conferences</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>EXIT CONFERENCE</tag>
+        <one-of>
+          <item>exit conference</item>
+          <item>exits conference</item>
+          <item>exits conferences</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>VOLUME UP</tag>
+        <one-of>
+          <item>turn up</item>
+          <item>volume up</item>
+          <item>volumes up</item>
+          <item>volumes ups</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>VOLUME DOWN</tag>
+        <one-of>
+          <item>turn down</item>
+          <item>volume down</item>
+          <item>volumes down</item>
+          <item>volumes downs</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>MUTE</tag>
+        <one-of>
+          <item>mute</item>
+          <item>mutes</item>
+          <item>muted</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>OK ZIRA</tag>
+        <one-of>
+          <item>ok zira</item>
+          <item>okay zira</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>UNMUTE</tag>
+        <one-of>
+          <item>unmute</item>
+          <item>unmutes</item>
+          <item>unmuted</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

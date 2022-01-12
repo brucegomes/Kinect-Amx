@@ -1,0 +1,69 @@
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe.config
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.pdb
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Speech.dll
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\Kinect_Amx.csprojResolveAssemblyReference.cache
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\Kinect_Amx.csproj.GenerateResource.Cache
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\bruce.gomes\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Microsoft.Speech.dll
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csprojResolveAssemblyReference.cache
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\MainWindow.baml
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\App.g.cs
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csproj.GenerateResource.Cache
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Interop.SpeechLib.dll
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csproj.ResolveComReference.cache
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Interop.SpeechLib.dll
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csproj.ResolveComReference.cache
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\MainWindow.baml
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\App.g.cs
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX_MarkupCompile.cache
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.g.resources
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csproj.GenerateResource.Cache
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.exe.config
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.exe
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.pdb
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Microsoft.Speech.dll
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.exe
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.pdb
+C:\Users\bruce.gomes\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csprojResolveAssemblyReference.cache
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.exe.config
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csproj.ResolveComReference.cache
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.exe
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.pdb
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csprojResolveAssemblyReference.cache
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\MainWindow.baml
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\App.g.cs
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX_MarkupCompile.cache
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.g.resources
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Brucejheison\Music\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csproj.GenerateResource.Cache
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.exe.config
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.exe
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.pdb
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX_MarkupCompile.cache
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.g.resources
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.exe
+C:\Users\frejat\OneDrive\Documents\Visual Studio 2015\Projects\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.pdb
+C:\Users\frejat\OneDrive\Kinect_AMX\Source Code(wpf-project)\Kinect_Amx_wsu-WPF\bin\AnyCPU\Debug\Kinect_AMX.exe.config
+C:\Users\frejat\OneDrive\Kinect_AMX\Source Code(wpf-project)\Kinect_Amx_wsu-WPF\obj\Debug\Interop.SpeechLib.dll
+C:\Users\frejat\OneDrive\Kinect_AMX\Source Code(wpf-project)\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_Amx.csproj.ResolveComReference.cache
+C:\Users\frejat\OneDrive\Kinect_AMX\Source Code(wpf-project)\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.exe
+C:\Users\frejat\OneDrive\Kinect_AMX\Source Code(wpf-project)\Kinect_Amx_wsu-WPF\obj\Debug\Kinect_AMX.pdb
